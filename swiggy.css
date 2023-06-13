@@ -1,0 +1,408 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+body
+
+{
+    margin: 0px;
+}
+.c
+{
+    width: 50%;
+    height: 550px;
+    float: left;
+    
+}
+.c1
+{
+
+    background-color: rgba(0, 255, 255, 0);
+}
+.c2
+{
+    background-image: url(./images/1280-Indian-food.jpg);
+    background-size: cover;
+    background-color: rgba(137, 43, 226, 0);
+}
+.k
+{
+   
+    width: 125px;
+    height: 40px;
+    
+    float: left;
+
+
+
+}
+
+.m{
+    background-image: url(./images/log.jpg);
+    background-size: cover;
+ margin-left: 10px;
+ margin-top: 96px;
+}
+
+.s{
+    margin-left: 166px;
+    margin-top: 100px;
+   
+ }
+
+.p
+{
+    background-color: black;
+    margin-left: 49px;
+    margin-top: 99px;
+}
+.d{
+    
+    color: white;
+
+   
+}
+.i
+{
+margin-left: 99px;
+margin-top: 12px;
+cursor: pointer;
+color: black;
+font-family:'Fira Sans', sans-serif;
+
+
+}
+.i:hover{
+    color: orange;
+}
+
+.g{
+    text-align: center;
+    margin-top: 11px;
+    cursor: pointer;
+}
+.y
+{
+    
+    width: 200px;
+    height: 30px;
+    margin-top: 187px;
+    margin-left: 11px;
+
+}
+.o
+{
+    color: black
+}
+.l
+{
+
+    color: rgba(0, 0, 0, 0.404);
+
+}
+
+
+.j
+{
+    width: 466px;height: 58px;
+border-color: rgba(0, 0, 0, 0.247);
+
+}
+#c
+{
+   
+    color: orangered;
+}
+.b{
+    margin-top: -65px;margin-left: 474px;
+    width: 113px;
+    height:60px;
+    color: white;background-color: orange;
+border-color: rgba(0, 0, 0, 0.154);
+text-align: center;
+padding: 2px;
+cursor: pointer;
+}
+.aj
+{
+    color: rgba(0, 0, 0, 0.275);
+}
+
+.q1
+{
+    position: absolute;
+    width: 100%;
+    height: 490px;
+    background-color:#2b1e16; 
+    margin-top: 550px;
+}
+.q2
+{
+    margin-left: 43px;
+margin-top: 55px;
+    width: 1221px;
+    height: 284px;
+    position: relative;
+    justify-content: space-around
+   
+}
+.g1
+{
+    width: 255px;
+    height: 282px;
+display: flex;
+
+position: absolute;
+    
+    
+}
+.a1
+{
+
+   
+    background-color: rgba(0, 0, 255, 0);
+    margin-left: 56px;
+  
+}
+
+.a2
+{
+    margin-left: 476px;
+    background-color: rgba(0, 255, 255, 0);
+}
+.a3
+{
+    margin-left: 894px;
+    background-color: rgba(255, 235, 205, 0.009);
+}
+.e1
+{
+    background-color: rgba(137, 43, 226, 0.015);
+    width: 121px;
+height:232px ;
+margin-top: 36px;
+margin-left: 70px;
+background-image: url(./images/4x_-_No_min_order_x0bxuf.webp);
+background-size: cover;
+}
+.e2
+{
+    background-color: rgba(43, 226, 128, 0);
+    width: 111px;
+height:232px ;
+margin-top: 36px;
+margin-left: 70px;
+background-image: url(./images/4x_Live_order_zzotwy.webp);
+background-size: cover;
+}
+.e3
+{
+    background-color: rgba(226, 76, 43, 0);
+    width: 153px;
+height:232px ;
+margin-top: 36px;
+margin-left: 70px;
+background-image: url(./images/4x_-_Super_fast_delivery_awv7sn.webp);
+background-size: cover;
+}
+.r1
+{
+    width: 178px;
+    height:34px;
+    margin-top: 300px;
+    margin-left: 94px;
+    
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+.t1
+{
+    width: 272px;
+    height:34px;
+    margin-top: 326px;
+    margin-left: 46px;
+    position: absolute;
+    text-align: center;
+    font-size: medium;
+    color: white;
+
+}
+.y1
+{ width: 178px;
+    height:34px;
+    margin-top: 300px;
+    margin-left: 520px;
+    
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    color: white;
+
+}
+.y2
+{
+    width: 272px;
+    height:34px;
+    margin-top: 326px;
+    margin-left: 472px;
+    position: absolute;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+.u1
+{ width: 1038px;
+    height:34px;
+    margin-top: 300px;
+    margin-left: 520px;
+    
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+.u2
+{
+    width: 272px;
+    height:34px;
+    margin-top: 326px;
+    margin-left: 906px;
+    position: absolute;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+.i1
+{
+    width: 100%;
+    height:500px ;
+  background-color: rgba(0, 255, 255, 0.016);
+  margin-left: 1px;
+  margin-top: 1040px;
+  position: absolute;
+}
+.ol
+{
+    background-color: rgba(137, 43, 226, 0);
+    width: 219px;
+    height: 95px;
+    margin-top: 128px;
+    margin-left: 98px;
+    font-size: xx-large;
+    position: absolute;
+    font-weight: 600;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p1{
+    width:352px;
+    height: 69px;
+  
+    position: absolute;
+    color: rgba(0, 0, 0, 0.518);
+    margin-top: 249px;
+    margin-left: 98px;
+    font-size: larger;
+    font-style: normal;
+   
+}
+.m1
+{
+    width: 187px;
+    height: 55px;
+    background-color: black;
+    position: absolute;
+    margin-top: 328px;
+    margin-left: 54px;
+    border-radius: 10px;
+    border-color: blue;
+    background-image: url(./images/play_ip0jfp.webp);
+background-size: cover;
+
+
+}
+.m2
+{
+    width:187px;
+    height: 55px;
+    background-color: black;
+    position: absolute;
+    margin-top: 329px;
+    margin-left:287px ;
+    border-radius: 10px;
+    background-image: url(./images/iOS_ajgrty.webp);
+background-size: cover;
+}
+.f1
+{
+    width: 257px;
+    height: 299px;
+  position: absolute;
+  background-color: rgba(0, 0, 255, 0);
+  margin-top: 0px;
+  margin-left: 707px;
+  background-image: url(./images/pp);
+  background-size: cover;
+}
+.f2
+
+    {
+    width: 257px;
+    height: 310px;
+  position: absolute;
+  background-color: rgba(0, 0, 255, 0);
+  margin-top: 110px;
+  margin-left: 939px;
+  background-image: url(./images/rr);
+background-size: cover;
+}
+.n1
+{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    margin-top: 1456px;
+    margin-left: 2px;
+    background-color: black;
+}
+.j1
+{width: 200px;
+    height: 300px;
+    background-color: aqua;
+    display: flex;
+    position: relative;
+    float: left;
+
+
+}
+.v1
+
+{
+    position: absolute;
+    margin-top: 36px;
+    margin-left: 61px;
+    
+}
+.v2
+{
+    position: absolute;
+    margin-left:113px;
+    margin-top: 34px;
+}
+.v3
+{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 251px;
+}
+.m3
+{
+    margin-left: 1069px;
+    margin-top: 125px;
+    
+}
+
+.m4{
+    margin-top: 38px;
+    margin-left: 1066px;
+}
